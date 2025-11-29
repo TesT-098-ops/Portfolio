@@ -12,7 +12,7 @@ export const EXPERIENCES: Experience[] = [
         id: "20f8bfe5-b6a3-4b0d-ac2f-6fccd50d417e",
         title: "Aspiring SDE/DevOps Engineer",
         employmentPeriod: {
-          start: "12.2024",
+          start: "05.2025",
         },
         employmentType: "Full-time",
         icon: "code",
