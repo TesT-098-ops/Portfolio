@@ -20,9 +20,9 @@ export const USER: User = {
   jobTitle: "Software Engineer",
   jobs: [
     {
-      title: "Software Engineer",
-      company: "Concentrix Catalyst",
-      website: "https://www.concentrix.com/catalyst/",
+      title: "Aspiring SDE/DevOps Engineer",
+      company: "",
+      website: "",
     },
   ],
   about: `
