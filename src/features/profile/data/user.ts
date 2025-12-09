@@ -32,7 +32,7 @@ export const USER: User = {
 
 - Let’s connect and build something great together!
   `,
-  avatar: "/me.png",// URL to avatar image
+  avatar: "/me.png", // URL to avatar image
   ogImage:
     "https://assets.chanhdai.com/images/screenshot-og-image-light.png?t=1755355653", // URL to og-image (1200x630)
   keywords: [
@@ -43,7 +43,7 @@ export const USER: User = {
     "Software Engineer",
     "Full Stack Developer",
     "DevOps",
-    "TestingDevOps"
+    "TestingDevOps",
   ],
   dateCreated: "2025-09-05", // YYYY-MM-DD
 };
