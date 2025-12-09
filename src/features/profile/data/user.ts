@@ -21,7 +21,7 @@ export const USER: User = {
   jobs: [
     {
       title: "Aspiring SDE/DevOps Engineer",
-      company: "",
+      company: "Self",
       website: "",
     },
   ],
